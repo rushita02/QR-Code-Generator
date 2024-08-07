@@ -1,1 +1,1 @@
-# QR-Code-Generator
+This is my small project
